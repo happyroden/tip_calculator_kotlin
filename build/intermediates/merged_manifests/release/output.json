@@ -1,0 +1,28 @@
+{
+  "version": 1,
+  "applicationId": "org.hyperskill.calculator.tip",
+  "variantType": "BASE_APK",
+  "elements": [
+    {
+      "outputType": {
+        "type": "MERGED_MANIFESTS"
+      },
+      "apkData": {
+        "type": "MAIN",
+        "splits": [],
+        "versionCode": 1,
+        "versionName": "1.0",
+        "outputFile": "Tip_Calculator-task-release-unsigned.apk",
+        "fullName": "release",
+        "baseName": "release",
+        "dirName": ""
+      },
+      "path": "AndroidManifest.xml",
+      "properties": {
+        "packageId": "org.hyperskill.calculator.tip",
+        "split": "",
+        "minSdkVersion": "21"
+      }
+    }
+  ]
+}

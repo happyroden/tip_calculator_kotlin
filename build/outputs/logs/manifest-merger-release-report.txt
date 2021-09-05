@@ -1,0 +1,177 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\bd57a1131ca97b78d9f21da0173b8e19\jetified-core-ktx-1.3.2\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\37a7c4b1a5437230092d3076c7eddc71\material-1.3.0-beta01\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ff2e266704cbe6678042d677a51e39b0\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\302f75661ea6717b371b91a64525e54a\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\f4048b6f3f9762675b80e3f81387fdb4\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\bc4a4873d9540f652431aa3f84c84971\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\5277ed614eb9398411fc7dede5fa0b4b\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\c8b380b2c92b34d6e6ff45330456e0ed\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ac4b73297969d44d892044b9886b946b\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\a0b6bc54fce2763f208da3c11a7d613b\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\48a1c3d3d60fe6360cfc71ea57f02f5e\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\2cbacc473a45be3f90e1d6d20c39f43c\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\2780e9da1d27dc98eafea017695cf849\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\c26f60e5c89e1354dfbcded3683c89e7\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\dd0baa8ea93853cb6b36edd378f2a7ab\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\94644a1bebdcbd2950fc206b97c28f6c\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ab4e1ed037327508a8509b5a9acfc7df\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\cb0313e6ff7d7f5b13c9e807aa7f003d\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\b80acaaebdf8c35a8aeb6581b01aa33c\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\44810e175f748e9b985573b4960b682e\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\3290c6c5d09464ef83ca89a417ae3c87\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\a3c3545c77ed0180054c0e4c16df432b\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\d2ee9773915ab67901d0caa61307eb09\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\c52b3b47382b4a8a3c4caadeff3f6fe2\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\1c06a754972e0338b6775f05419ba33b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\d3305c57f20d0d94664df5fc49042326\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\60a974c149da61fdf34a3b7559a4fab6\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\238afed43b9d65aafb73dc3abd1921fc\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\2b157573487dbb611793344db01f41bb\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\d239fb414acfa32accaaad14d13be4d4\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\2f5dd9898174f0666646f5087dca8681\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ebcbbc8cae7eca93f5fd2631a3d194e1\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\78a0fdaba54e5ec582e7b9e3ef20dbf4\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\a9a5d74ba1dc8ba87d99be022d57e2a3\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:3:5-44
+		INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:5:3-19:17
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\37a7c4b1a5437230092d3076c7eddc71\material-1.3.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\37a7c4b1a5437230092d3076c7eddc71\material-1.3.0-beta01\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ff2e266704cbe6678042d677a51e39b0\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ff2e266704cbe6678042d677a51e39b0\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\44810e175f748e9b985573b4960b682e\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\44810e175f748e9b985573b4960b682e\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\d2ee9773915ab67901d0caa61307eb09\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\d2ee9773915ab67901d0caa61307eb09\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\44810e175f748e9b985573b4960b682e\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:10:7-33
+	android:label
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:8:7-39
+	android:roundIcon
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:9:7-52
+	android:icon
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:7:7-41
+	android:allowBackup
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:6:7-33
+	android:theme
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:11:7-38
+activity#org.hyperskill.calculator.tip.MainActivity
+ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:12:5-18:16
+	android:name
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:12:15-72
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:13:7-17:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:14:9-61
+	android:name
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:14:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:16:9-69
+	android:name
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml:16:19-66
+uses-sdk
+INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\bd57a1131ca97b78d9f21da0173b8e19\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\bd57a1131ca97b78d9f21da0173b8e19\jetified-core-ktx-1.3.2\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\37a7c4b1a5437230092d3076c7eddc71\material-1.3.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.3.0-beta01] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\37a7c4b1a5437230092d3076c7eddc71\material-1.3.0-beta01\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ff2e266704cbe6678042d677a51e39b0\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ff2e266704cbe6678042d677a51e39b0\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\302f75661ea6717b371b91a64525e54a\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\302f75661ea6717b371b91a64525e54a\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\f4048b6f3f9762675b80e3f81387fdb4\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\f4048b6f3f9762675b80e3f81387fdb4\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\bc4a4873d9540f652431aa3f84c84971\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\bc4a4873d9540f652431aa3f84c84971\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\5277ed614eb9398411fc7dede5fa0b4b\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\5277ed614eb9398411fc7dede5fa0b4b\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\c8b380b2c92b34d6e6ff45330456e0ed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\c8b380b2c92b34d6e6ff45330456e0ed\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ac4b73297969d44d892044b9886b946b\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ac4b73297969d44d892044b9886b946b\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\a0b6bc54fce2763f208da3c11a7d613b\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\a0b6bc54fce2763f208da3c11a7d613b\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\48a1c3d3d60fe6360cfc71ea57f02f5e\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\48a1c3d3d60fe6360cfc71ea57f02f5e\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\2cbacc473a45be3f90e1d6d20c39f43c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\2cbacc473a45be3f90e1d6d20c39f43c\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\2780e9da1d27dc98eafea017695cf849\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\2780e9da1d27dc98eafea017695cf849\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\c26f60e5c89e1354dfbcded3683c89e7\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\c26f60e5c89e1354dfbcded3683c89e7\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\dd0baa8ea93853cb6b36edd378f2a7ab\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\dd0baa8ea93853cb6b36edd378f2a7ab\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\94644a1bebdcbd2950fc206b97c28f6c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\94644a1bebdcbd2950fc206b97c28f6c\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ab4e1ed037327508a8509b5a9acfc7df\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ab4e1ed037327508a8509b5a9acfc7df\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\cb0313e6ff7d7f5b13c9e807aa7f003d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\cb0313e6ff7d7f5b13c9e807aa7f003d\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\b80acaaebdf8c35a8aeb6581b01aa33c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\b80acaaebdf8c35a8aeb6581b01aa33c\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\44810e175f748e9b985573b4960b682e\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\44810e175f748e9b985573b4960b682e\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\3290c6c5d09464ef83ca89a417ae3c87\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\3290c6c5d09464ef83ca89a417ae3c87\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\a3c3545c77ed0180054c0e4c16df432b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\a3c3545c77ed0180054c0e4c16df432b\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\d2ee9773915ab67901d0caa61307eb09\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\d2ee9773915ab67901d0caa61307eb09\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\c52b3b47382b4a8a3c4caadeff3f6fe2\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\c52b3b47382b4a8a3c4caadeff3f6fe2\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\1c06a754972e0338b6775f05419ba33b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\1c06a754972e0338b6775f05419ba33b\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\d3305c57f20d0d94664df5fc49042326\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\d3305c57f20d0d94664df5fc49042326\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\60a974c149da61fdf34a3b7559a4fab6\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\60a974c149da61fdf34a3b7559a4fab6\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\238afed43b9d65aafb73dc3abd1921fc\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\238afed43b9d65aafb73dc3abd1921fc\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\2b157573487dbb611793344db01f41bb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\2b157573487dbb611793344db01f41bb\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\d239fb414acfa32accaaad14d13be4d4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\d239fb414acfa32accaaad14d13be4d4\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\2f5dd9898174f0666646f5087dca8681\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\2f5dd9898174f0666646f5087dca8681\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ebcbbc8cae7eca93f5fd2631a3d194e1\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\ebcbbc8cae7eca93f5fd2631a3d194e1\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\78a0fdaba54e5ec582e7b9e3ef20dbf4\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\78a0fdaba54e5ec582e7b9e3ef20dbf4\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\a9a5d74ba1dc8ba87d99be022d57e2a3\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Azhar\.gradle\caches\transforms-2\files-2.1\a9a5d74ba1dc8ba87d99be022d57e2a3\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Azhar\Desktop\tip\Tip-Calc\Tip Calculator\task\src\main\AndroidManifest.xml

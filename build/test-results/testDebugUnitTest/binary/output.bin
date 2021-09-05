@@ -1,0 +1,17 @@
+y[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckSliderListenerLast: sdk=29; resources=BINARY
+TCalled loadFromPath(/system/framework/framework-res.apk, true); mode=binary sdk=29
+zCleaner.create(android.view.ThreadedRenderer@4e9fd998,android.graphics.HardwareRenderer$DestroyContextRunnable@7310b2e8)
+|[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckEditTextListenerFirst: sdk=29; resources=BINARY
+zCleaner.create(android.view.ThreadedRenderer@4a6af373,android.graphics.HardwareRenderer$DestroyContextRunnable@5ee23c33)
+t[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckTextViewExist: sdk=29; resources=BINARY
+zCleaner.create(android.view.ThreadedRenderer@2fb09b3d,android.graphics.HardwareRenderer$DestroyContextRunnable@4ecfc7d7)
+r[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckSliderExist: sdk=29; resources=BINARY
+zCleaner.create(android.view.ThreadedRenderer@68db3add,android.graphics.HardwareRenderer$DestroyContextRunnable@7ffbcf46)
+z[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckSliderListenerFirst: sdk=29; resources=BINARY
+zCleaner.create(android.view.ThreadedRenderer@57d74fe3,android.graphics.HardwareRenderer$DestroyContextRunnable@70ee23bf)
+t[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckEditTextExist: sdk=29; resources=BINARY
+zCleaner.create(android.view.ThreadedRenderer@581851c0,android.graphics.HardwareRenderer$DestroyContextRunnable@77921263)
+{[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckEditTextListenerLast: sdk=29; resources=BINARY
+zCleaner.create(android.view.ThreadedRenderer@546c39dc,android.graphics.HardwareRenderer$DestroyContextRunnable@299c9b1c)
+	u[Robolectric] org.hyperskill.calculator.tip.ExampleUnitTest.testShouldCheckLongJustForFun: sdk=29; resources=BINARY
+	xCleaner.create(android.view.ThreadedRenderer@2dd18fb,android.graphics.HardwareRenderer$DestroyContextRunnable@395de15)
